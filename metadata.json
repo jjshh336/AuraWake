@@ -1,0 +1,6 @@
+{
+  "name": "AuraWake - Premium Alarm & Smart Sleep",
+  "description": "A high-reliability alarm & smart wake-up app with Alarmy-style anti-dismissal missions (Voice Chant, QR/Barcode Scanner, Camera Photo, Math, Memory, Typing, Shake, Steps), sleep cycle tracking, sound synthesizer, and dark-first dashboard.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
